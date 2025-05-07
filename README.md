@@ -7,7 +7,7 @@
 爬蟲資料、爬蟲結果圖表與逐步介紹如何爬出這些資
 料&搭配核心程式碼講解
 ## 網站連結
-(https://maggie-0.github.io/411201095/index.html)
+[一探究竟](https://maggie-0.github.io/411201095/index.html)
 ## 使用工具與套件
 github
 ## 圖示
